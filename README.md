@@ -1,4 +1,4 @@
-# DALL·E Mini
+ # DALL·E Mini
 
 <a href="https://www.craiyon.com/"><img src="https://www.craiyon.com/thumbnail.png" width="300"></a>
 
